@@ -1,0 +1,29 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jess.lord@gmail.com",
+    "longName": "test-c",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/cat.png",
+                "name": "CAT_PHOTO",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "test-c",
+    "targetPlatforms": [
+        "chalk"
+    ],
+    "uuid": "0305330c-ff30-4275-a352-cde123394a12",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
